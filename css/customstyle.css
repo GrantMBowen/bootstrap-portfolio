@@ -15,7 +15,7 @@ html {
     /* background-position: center; */
     background-repeat: repeat-y;
     background-size: 100%;
-    min-height: 140vh;
+    min-height: 90vh;
 }
 .card {
     background-color: transparent;
@@ -33,5 +33,5 @@ html {
 
     .footer-block {
         
-        border-top: 1px solid white;
+        /* border-top: 1px solid white; */
     }
